@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppGastosMensuales</string>
+    <string name="btnIngresarCuenta">Ingresar Cuenta</string>
+    <string name="btnComparaCuentas">Comparar Cuentas</string>
+    <string name="btnVerCuentas">Ver Cuentas</string>
+    <string name="editPrecio">Ingrese el precio aquí</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="editAgno">Ingrese el año aqui</string>
+    <string name="tvAgno">Ingrese el año a buscar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="textView3">Ingrese Año</string>
+    <string name="textView4">Ingrese Mes</string>
+    <string name="textView5">Ingrese Año 2</string>
+    <string name="textView6">Ingrese Mes 2</string>
+    <string name="botones">Volver</string>
+</resources>
